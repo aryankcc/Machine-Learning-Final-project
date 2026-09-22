@@ -1,0 +1,1 @@
+This project leverages a dataset of 500 students to predict academic outcomes (Pass/Fail) using behavioral and demographic features. By comparing Logistic Regression, Random Forests, and Neural Networks (MLP), this tool identifies the most effective predictive markers to enable proactive educational intervention.
